@@ -5,12 +5,3 @@
  assisted me in styling a visually appealing page. I also started learning Javascript and adding functionality to the page. 
  ## Link to the course 
  https://www.udemy.com/course/full-stack-crash-course/learn/lecture/35198588?start=330#questions
-
-
-
-
-
- 
- 
- 
-
